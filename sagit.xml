@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	This manifest is for LineageOS 15.1 for Xiaomi Sagit
+-->
+<manifest>
+	<project name="Demon000/device_xiaomi_sagit" path="device/xiaomi/sagit" remote="github" revision="lineage-15.1" />
+	<project name="Demon000/kernel_xiaomi_msm8998" path="kernel/xiaomi/msm8998" remote="github" revision="lineage-15.1" />
+	<project name="Demon000/vendor_xiaomi" path="vendor/xiaomi" remote="github" revision="lineage-15.1" />
+	<project name="Demon000/device_xiaomi_msm8998-common"  path="device/xiaomi/msm8998-common" remote="github" revision="lineage-15.1" />
+	<project name="LineageOS/android_device_qcom_common" path="device/qcom/common" remote="github" revision="lineage-15.1" />
+	<project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="lineage-15.1" />
+</manifest>
+
